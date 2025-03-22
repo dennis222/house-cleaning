@@ -51,7 +51,7 @@ const ServicesSection = () => {
             </CardContent>
             <CardFooter className="flex-col gap-2">
               <Button asChild className="w-full bg-primary hover:bg-primary/90">
-                <Link href="https://book.absolutedomestics.com.au/" target="_blank">
+                <Link href="https://book.www.airtasker.com.com.au/" target="_blank">
                   Get Pricing and Book Online
                 </Link>
               </Button>
@@ -91,7 +91,7 @@ const ServicesSection = () => {
             </CardContent>
             <CardFooter className="flex-col gap-2">
               <Button asChild className="w-full bg-primary hover:bg-primary/90">
-                <Link href="https://book.absolutedomestics.com.au/" target="_blank">
+                <Link href="https://book.www.airtasker.com.com.au/" target="_blank">
                   Get Pricing and Book Online
                 </Link>
               </Button>

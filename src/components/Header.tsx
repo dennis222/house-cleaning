@@ -19,7 +19,7 @@ const Header = () => {
               Call 000 000 000 000         
         </Link>
             <Button asChild size="sm" className="bg-primary hover:bg-primary/90">
-              <Link href="https://book.absolutedomestics.com.au/" target="_blank">
+              <Link href="https://book.www.airtasker.com.com.au/" target="_blank">
                 Get Pricing & Book Online
               </Link>
             </Button>
@@ -44,7 +44,7 @@ const Header = () => {
               <PhoneCall className="h-5 w-5" />
             </Link>
             <Button size="sm" asChild className="bg-primary hover:bg-primary/90">
-              <Link href="https://book.absolutedomestics.com.au/" target="_blank">
+              <Link href="https://book.www.airtasker.com.com.au/" target="_blank">
                 Book Online
               </Link>
             </Button>
@@ -54,7 +54,7 @@ const Header = () => {
           <nav className="hidden lg:flex items-center gap-8">
             <Link href="/" className="text-foreground hover:text-primary transition-colors">Home</Link>
             <Link href="/services" className="text-foreground hover:text-primary transition-colors">Services</Link>
-            <Link href="https://book.absolutedomestics.com.au/" target="_blank" className="text-foreground hover:text-primary transition-colors">
+            <Link href="https://book.www.airtasker.com.com.au/" target="_blank" className="text-foreground hover:text-primary transition-colors">
               Pricing & Book Online
             </Link>
             <Link href="/locations" className="text-foreground hover:text-primary transition-colors">Locations</Link>
@@ -63,7 +63,7 @@ const Header = () => {
             <Link href="/reviews" className="text-foreground hover:text-primary transition-colors">Reviews</Link>
             <Link href="/faqs" className="text-foreground hover:text-primary transition-colors">FAQs</Link>
             <Link href="/contact-us" className="text-foreground hover:text-primary transition-colors">Contact Us</Link>
-            <Link href="https://my.absolutedomestics.com.au/login" target="_blank" className="text-foreground hover:text-primary transition-colors flex items-center gap-1">
+            <Link href="https://my.www.airtasker.com.com.au/login" target="_blank" className="text-foreground hover:text-primary transition-colors flex items-center gap-1">
               Login/Register
             </Link>
           </nav>

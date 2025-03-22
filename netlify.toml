@@ -25,7 +25,7 @@
 
 [images]
   remote_images = [
-    "https://cms.absolutedomestics.com.au/.*",
-    "https://www.absolutedomestics.com.au/.*",
+    "https://cms.www.airtasker.com.com.au/.*",
+    "https://www.www.airtasker.com.com.au/.*",
     "https://ext.same-assets.com/.*"
   ]

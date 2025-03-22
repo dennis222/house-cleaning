@@ -10,7 +10,7 @@ const AppFeatureSection = () => {
           <div className="order-2 md:order-1">
             <div className="relative h-[400px] w-full">
               <Image
-                src="https://cms.absolutedomestics.com.au/wp-content/uploads/2024/03/AD-Image-1-2.png"
+                src="https://cms.www.airtasker.com.com.au/wp-content/uploads/2024/03/AD-Image-1-2.png"
                 alt="Absolute Domestics App"
                 fill
                 className="object-contain"
@@ -27,15 +27,15 @@ const AppFeatureSection = () => {
             <div className="flex flex-wrap gap-4">
               <Link href="https://apps.apple.com/au/app/myabdom/id1553742811" target="_blank">
                 <Image
-                  src="https://www.absolutedomestics.com.au/_next/static/media/app-store.c1de4835.svg"
+                  src="https://www.www.airtasker.com.com.au/_next/static/media/app-store.c1de4835.svg"
                   alt="Download on App Store"
                   width={140}
                   height={45}
                 />
               </Link>
-              <Link href="https://play.google.com/store/apps/details?id=com.absolutedomestics.myabdom&hl=en_US" target="_blank">
+              <Link href="https://play.google.com/store/apps/details?id=com.www.airtasker.com.myabdom&hl=en_US" target="_blank">
                 <Image
-                  src="https://www.absolutedomestics.com.au/_next/static/media/google-play.25f53fdc.svg"
+                  src="https://www.www.airtasker.com.com.au/_next/static/media/google-play.25f53fdc.svg"
                   alt="Download on Google Play"
                   width={140}
                   height={45}

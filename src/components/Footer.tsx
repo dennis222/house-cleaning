@@ -59,10 +59,10 @@ const Footer = () => {
             <div className="flex gap-2 mb-4">
               <h6 className="font-semibold">Connect with us</h6>
               <div className="flex items-center gap-2">
-                <Link href="https://www.facebook.com/AbsoluteDomestics/" target="_blank" aria-label="Facebook">
+                <Link href="https://www.facebook.com/www.airtasker.com/" target="_blank" aria-label="Facebook">
                   <Facebook className="h-5 w-5 text-primary" />
                 </Link>
-                <Link href="https://instagram.com/absolutedomesticsofficial" target="_blank" aria-label="Instagram">
+                <Link href="https://instagram.com/www.airtasker.comofficial" target="_blank" aria-label="Instagram">
                   <Instagram className="h-5 w-5 text-primary" />
                 </Link>
                 <Link href="https://linkedin.com/company/absolute-domestics" target="_blank" aria-label="LinkedIn">
@@ -282,15 +282,15 @@ const Footer = () => {
               <div className="flex gap-2">
                 <Link href="https://apps.apple.com/au/app/myabdom/id1553742811" target="_blank">
                   <Image
-                    src="https://www.absolutedomestics.com.au/_next/static/media/app-store.c1de4835.svg"
+                    src="https://www.www.airtasker.com.com.au/_next/static/media/app-store.c1de4835.svg"
                     alt="Download on App Store"
                     width={120}
                     height={40}
                   />
                 </Link>
-                <Link href="https://play.google.com/store/apps/details?id=com.absolutedomestics.myabdom&hl=en_US" target="_blank">
+                <Link href="https://play.google.com/store/apps/details?id=com.www.airtasker.com.myabdom&hl=en_US" target="_blank">
                   <Image
-                    src="https://www.absolutedomestics.com.au/_next/static/media/google-play.25f53fdc.svg"
+                    src="https://www.www.airtasker.com.com.au/_next/static/media/google-play.25f53fdc.svg"
                     alt="Download on Google Play"
                     width={120}
                     height={40}

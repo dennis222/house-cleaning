@@ -3,19 +3,19 @@ const nextConfig = {
   output: 'standalone',
   images: {
     domains: [
-      'cms.absolutedomestics.com.au',
-      'www.absolutedomestics.com.au',
+      'cms.www.airtasker.com.com.au',
+      'www.www.airtasker.com.com.au',
       'ext.same-assets.com'
     ],
     remotePatterns: [
       {
         protocol: 'https',
-        hostname: 'cms.absolutedomestics.com.au',
+        hostname: 'cms.www.airtasker.com.com.au',
         pathname: '/**'
       },
       {
         protocol: 'https',
-        hostname: 'www.absolutedomestics.com.au',
+        hostname: 'www.www.airtasker.com.com.au',
         pathname: '/**'
       },
       {
