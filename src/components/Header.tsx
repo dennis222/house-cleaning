@@ -17,6 +17,11 @@ const Header = () => {
             <Link href="tel:1300364646" className="flex items-center gap-2 hover:text-primary transition-colors">
               <PhoneCall className="h-4 w-4" />
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+              Call 000 000 000 
+=======
+>>>>>>> 87c5435 (use local Header.tsx version)
               Call 000 000 000 
 
 
