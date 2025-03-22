@@ -11,9 +11,9 @@ const Footer = () => {
         {/* Book section */}
         <div className="grid md:grid-cols-2 gap-8 py-10 border-b">
           <div className="flex flex-col gap-2">
-            <h4 className="font-semibold">Book your cleaner in 60 seconds.</h4>
+            <h4 className="font-semibold">Book your cleaner in 1 mintue.</h4>
             <p className="text-muted-foreground">
-              Using our simple booking form you can have your clean booked in 60 seconds.
+              Using our simple booking form you can have your clean booked in 1 Mintue.
             </p>
             <div className="relative mt-4 max-w-md">
               <input
@@ -22,7 +22,7 @@ const Footer = () => {
                 className="w-full px-4 py-2 border rounded-md pr-28"
               />
               <Button size="sm" className="absolute right-1 top-1 bg-primary hover:bg-primary/90">
-                <Link href="https://book.absolutedomestics.com.au/" target="_blank">
+                <Link href="https://google.com.au/" target="_blank">
                   Get Pricing
                 </Link>
               </Button>

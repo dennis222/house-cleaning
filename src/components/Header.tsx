@@ -16,7 +16,7 @@ const Header = () => {
           <div className="flex items-center gap-4">
             <Link href="tel:1300364646" className="flex items-center gap-2 hover:text-primary transition-colors">
               <PhoneCall className="h-4 w-4" />
-              Call 1300 364 646
+              Call 000 000 000 
             </Link>
             <Button asChild size="sm" className="bg-primary hover:bg-primary/90">
               <Link href="https://book.absolutedomestics.com.au/" target="_blank">

@@ -8,6 +8,12 @@ import TestimonialsSection from "@/components/TestimonialsSection";
 import HowItWorksSection from "@/components/HowItWorksSection";
 import AppFeatureSection from "@/components/AppFeatureSection";
 
+//add SEO information into below; 
+export const metadata = {
+  title: "Top Cleaning Service in Melbourne | For Test",
+  description: "This is Test Description",
+};
+
 export default function Home() {
   return (
     <main className="flex min-h-screen flex-col">
