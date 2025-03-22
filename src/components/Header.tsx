@@ -16,28 +16,8 @@ const Header = () => {
           <div className="flex items-center gap-4">
             <Link href="tel:1300364646" className="flex items-center gap-2 hover:text-primary transition-colors">
               <PhoneCall className="h-4 w-4" />
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-              Call 000 000 000 
-=======
->>>>>>> 87c5435 (use local Header.tsx version)
-              Call 000 000 000 
-
-
-
-
-               
-
->>>>>>> f633218 (import SpeedInsights into layout)
-=======
-
-              Call 000 000 000 000
-
-
->>>>>>> 33cb8a3 (delete call 000 incoming)
-            </Link>
+              Call 000 000 000 000         
+        </Link>
             <Button asChild size="sm" className="bg-primary hover:bg-primary/90">
               <Link href="https://book.absolutedomestics.com.au/" target="_blank">
                 Get Pricing & Book Online
