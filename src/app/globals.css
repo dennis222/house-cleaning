@@ -101,4 +101,14 @@
   h6 {
     @apply text-base lg:text-lg;
   }
+
+  @keyframes fade-in {
+    0% {opacity: 0;}
+    100% {opacity: 1;}
+  } 
+
+  .animate-fade-in {
+    animation: ffade-in 1s ease-out forwards;
+  }
+
 }
