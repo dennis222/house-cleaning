@@ -23,10 +23,10 @@ const HeroSection = () => {
       <div className="container relative z-10 mx-auto px-4 h-full flex flex-col justify-center">
         <div className="max-w-lg">
           <h1 className="text-white text-4xl lg:text-5xl font-bold mb-4">
-            Best cleaning Service in Sydney 
+            Best cleaning Service Sydney 
           </h1>
           <p className="text-white text-lg mb-8">
-            Established for 30 years with cleaning contractors who are carefully screened and trained, we offer the choice of regular and once off cleans.
+            This is for test, Bingo!
           </p>
 
           {/* Search input */}
