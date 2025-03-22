@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import "./globals.css";
 import localFont from "next/font/local";
+import { SpeedInsights } from "@vercel/speed-insights/next"
 
 // Define the local fonts
 const sans = localFont({
