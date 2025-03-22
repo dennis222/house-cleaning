@@ -18,6 +18,7 @@ const Header = () => {
               <PhoneCall className="h-4 w-4" />
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
               Call 000 000 000 
 =======
@@ -30,6 +31,12 @@ const Header = () => {
                
 
 >>>>>>> f633218 (import SpeedInsights into layout)
+=======
+
+              Call 000 000 000 000
+
+
+>>>>>>> 33cb8a3 (delete call 000 incoming)
             </Link>
             <Button asChild size="sm" className="bg-primary hover:bg-primary/90">
               <Link href="https://book.absolutedomestics.com.au/" target="_blank">
